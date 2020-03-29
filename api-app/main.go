@@ -8,9 +8,7 @@ import (
     "log"
     "io/ioutil"
     "net/http"
-
-    "github.com/gorilla/"
-    //  github.com/gorilla/mux
+    "github.com/gorilla/mux"
 )
 
 // Article - Our struct for all articles

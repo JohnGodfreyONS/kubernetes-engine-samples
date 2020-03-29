@@ -1,4 +1,4 @@
-# Kubernetes Engine Samples for GCP course
+# JG Kubernetes Engine Samples for GCP course
 
 This repository contains sample applications used in
 [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) tutorials.
